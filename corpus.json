@@ -1,0 +1,4002 @@
+[
+    {
+        "id": 1,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 1 句",
+        "status": "已审核"
+    },
+    {
+        "id": 2,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 2 句",
+        "status": "已审核"
+    },
+    {
+        "id": 3,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 3 句",
+        "status": "已审核"
+    },
+    {
+        "id": 4,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 4 句",
+        "status": "已审核"
+    },
+    {
+        "id": 5,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 5 句",
+        "status": "已审核"
+    },
+    {
+        "id": 6,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 6 句",
+        "status": "已审核"
+    },
+    {
+        "id": 7,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 7 句",
+        "status": "已审核"
+    },
+    {
+        "id": 8,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 8 句",
+        "status": "已审核"
+    },
+    {
+        "id": 9,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 9 句",
+        "status": "已审核"
+    },
+    {
+        "id": 10,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 10 句",
+        "status": "已审核"
+    },
+    {
+        "id": 11,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 11 句",
+        "status": "已审核"
+    },
+    {
+        "id": 12,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 12 句",
+        "status": "已审核"
+    },
+    {
+        "id": 13,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 13 句",
+        "status": "已审核"
+    },
+    {
+        "id": 14,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 14 句",
+        "status": "已审核"
+    },
+    {
+        "id": 15,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 15 句",
+        "status": "已审核"
+    },
+    {
+        "id": 16,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 16 句",
+        "status": "已审核"
+    },
+    {
+        "id": 17,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 17 句",
+        "status": "已审核"
+    },
+    {
+        "id": 18,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 18 句",
+        "status": "已审核"
+    },
+    {
+        "id": 19,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 19 句",
+        "status": "已审核"
+    },
+    {
+        "id": 20,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 20 句",
+        "status": "已审核"
+    },
+    {
+        "id": 21,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 21 句",
+        "status": "已审核"
+    },
+    {
+        "id": 22,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 22 句",
+        "status": "已审核"
+    },
+    {
+        "id": 23,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 23 句",
+        "status": "已审核"
+    },
+    {
+        "id": 24,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 24 句",
+        "status": "已审核"
+    },
+    {
+        "id": 25,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 25 句",
+        "status": "已审核"
+    },
+    {
+        "id": 26,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 26 句",
+        "status": "已审核"
+    },
+    {
+        "id": 27,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 27 句",
+        "status": "已审核"
+    },
+    {
+        "id": 28,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 28 句",
+        "status": "已审核"
+    },
+    {
+        "id": 29,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 29 句",
+        "status": "已审核"
+    },
+    {
+        "id": 30,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 30 句",
+        "status": "已审核"
+    },
+    {
+        "id": 31,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 31 句",
+        "status": "已审核"
+    },
+    {
+        "id": 32,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 32 句",
+        "status": "已审核"
+    },
+    {
+        "id": 33,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 33 句",
+        "status": "已审核"
+    },
+    {
+        "id": 34,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 34 句",
+        "status": "已审核"
+    },
+    {
+        "id": 35,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 35 句",
+        "status": "已审核"
+    },
+    {
+        "id": 36,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 36 句",
+        "status": "已审核"
+    },
+    {
+        "id": 37,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 37 句",
+        "status": "已审核"
+    },
+    {
+        "id": 38,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 38 句",
+        "status": "已审核"
+    },
+    {
+        "id": 39,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 39 句",
+        "status": "已审核"
+    },
+    {
+        "id": 40,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 40 句",
+        "status": "已审核"
+    },
+    {
+        "id": 41,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 41 句",
+        "status": "已审核"
+    },
+    {
+        "id": 42,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 42 句",
+        "status": "已审核"
+    },
+    {
+        "id": 43,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 43 句",
+        "status": "已审核"
+    },
+    {
+        "id": 44,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 44 句",
+        "status": "已审核"
+    },
+    {
+        "id": 45,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 45 句",
+        "status": "已审核"
+    },
+    {
+        "id": 46,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 46 句",
+        "status": "已审核"
+    },
+    {
+        "id": 47,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 47 句",
+        "status": "已审核"
+    },
+    {
+        "id": 48,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 48 句",
+        "status": "已审核"
+    },
+    {
+        "id": 49,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 49 句",
+        "status": "已审核"
+    },
+    {
+        "id": 50,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 50 句",
+        "status": "已审核"
+    },
+    {
+        "id": 51,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 51 句",
+        "status": "已审核"
+    },
+    {
+        "id": 52,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 52 句",
+        "status": "已审核"
+    },
+    {
+        "id": 53,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 53 句",
+        "status": "已审核"
+    },
+    {
+        "id": 54,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 54 句",
+        "status": "已审核"
+    },
+    {
+        "id": 55,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 55 句",
+        "status": "已审核"
+    },
+    {
+        "id": 56,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 56 句",
+        "status": "已审核"
+    },
+    {
+        "id": 57,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 57 句",
+        "status": "已审核"
+    },
+    {
+        "id": 58,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 58 句",
+        "status": "已审核"
+    },
+    {
+        "id": 59,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 59 句",
+        "status": "已审核"
+    },
+    {
+        "id": 60,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 60 句",
+        "status": "已审核"
+    },
+    {
+        "id": 61,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 61 句",
+        "status": "已审核"
+    },
+    {
+        "id": 62,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 62 句",
+        "status": "已审核"
+    },
+    {
+        "id": 63,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 63 句",
+        "status": "已审核"
+    },
+    {
+        "id": 64,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 64 句",
+        "status": "已审核"
+    },
+    {
+        "id": 65,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 65 句",
+        "status": "已审核"
+    },
+    {
+        "id": 66,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 66 句",
+        "status": "已审核"
+    },
+    {
+        "id": 67,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 67 句",
+        "status": "已审核"
+    },
+    {
+        "id": 68,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 68 句",
+        "status": "已审核"
+    },
+    {
+        "id": 69,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 69 句",
+        "status": "已审核"
+    },
+    {
+        "id": 70,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 70 句",
+        "status": "已审核"
+    },
+    {
+        "id": 71,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 71 句",
+        "status": "已审核"
+    },
+    {
+        "id": 72,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 72 句",
+        "status": "已审核"
+    },
+    {
+        "id": 73,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 73 句",
+        "status": "已审核"
+    },
+    {
+        "id": 74,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 74 句",
+        "status": "已审核"
+    },
+    {
+        "id": 75,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 75 句",
+        "status": "已审核"
+    },
+    {
+        "id": 76,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 76 句",
+        "status": "已审核"
+    },
+    {
+        "id": 77,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 77 句",
+        "status": "已审核"
+    },
+    {
+        "id": 78,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 78 句",
+        "status": "已审核"
+    },
+    {
+        "id": 79,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 79 句",
+        "status": "已审核"
+    },
+    {
+        "id": 80,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 80 句",
+        "status": "已审核"
+    },
+    {
+        "id": 81,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 81 句",
+        "status": "已审核"
+    },
+    {
+        "id": 82,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 82 句",
+        "status": "已审核"
+    },
+    {
+        "id": 83,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 83 句",
+        "status": "已审核"
+    },
+    {
+        "id": 84,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 84 句",
+        "status": "已审核"
+    },
+    {
+        "id": 85,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 85 句",
+        "status": "已审核"
+    },
+    {
+        "id": 86,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 86 句",
+        "status": "已审核"
+    },
+    {
+        "id": 87,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 87 句",
+        "status": "已审核"
+    },
+    {
+        "id": 88,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 88 句",
+        "status": "已审核"
+    },
+    {
+        "id": 89,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 89 句",
+        "status": "已审核"
+    },
+    {
+        "id": 90,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 90 句",
+        "status": "已审核"
+    },
+    {
+        "id": 91,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 91 句",
+        "status": "已审核"
+    },
+    {
+        "id": 92,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 92 句",
+        "status": "已审核"
+    },
+    {
+        "id": 93,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 93 句",
+        "status": "已审核"
+    },
+    {
+        "id": 94,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 94 句",
+        "status": "已审核"
+    },
+    {
+        "id": 95,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 95 句",
+        "status": "已审核"
+    },
+    {
+        "id": 96,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 96 句",
+        "status": "已审核"
+    },
+    {
+        "id": 97,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 97 句",
+        "status": "已审核"
+    },
+    {
+        "id": 98,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 98 句",
+        "status": "已审核"
+    },
+    {
+        "id": 99,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 99 句",
+        "status": "已审核"
+    },
+    {
+        "id": 100,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 100 句",
+        "status": "已审核"
+    },
+    {
+        "id": 101,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 101 句",
+        "status": "已审核"
+    },
+    {
+        "id": 102,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 102 句",
+        "status": "已审核"
+    },
+    {
+        "id": 103,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 103 句",
+        "status": "已审核"
+    },
+    {
+        "id": 104,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 104 句",
+        "status": "已审核"
+    },
+    {
+        "id": 105,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 105 句",
+        "status": "已审核"
+    },
+    {
+        "id": 106,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 106 句",
+        "status": "已审核"
+    },
+    {
+        "id": 107,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 107 句",
+        "status": "已审核"
+    },
+    {
+        "id": 108,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 108 句",
+        "status": "已审核"
+    },
+    {
+        "id": 109,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 109 句",
+        "status": "已审核"
+    },
+    {
+        "id": 110,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 110 句",
+        "status": "已审核"
+    },
+    {
+        "id": 111,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 111 句",
+        "status": "已审核"
+    },
+    {
+        "id": 112,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 112 句",
+        "status": "已审核"
+    },
+    {
+        "id": 113,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 113 句",
+        "status": "已审核"
+    },
+    {
+        "id": 114,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 114 句",
+        "status": "已审核"
+    },
+    {
+        "id": 115,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 115 句",
+        "status": "已审核"
+    },
+    {
+        "id": 116,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 116 句",
+        "status": "已审核"
+    },
+    {
+        "id": 117,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 117 句",
+        "status": "已审核"
+    },
+    {
+        "id": 118,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 118 句",
+        "status": "已审核"
+    },
+    {
+        "id": 119,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 119 句",
+        "status": "已审核"
+    },
+    {
+        "id": 120,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 120 句",
+        "status": "已审核"
+    },
+    {
+        "id": 121,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 121 句",
+        "status": "已审核"
+    },
+    {
+        "id": 122,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 122 句",
+        "status": "已审核"
+    },
+    {
+        "id": 123,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 123 句",
+        "status": "已审核"
+    },
+    {
+        "id": 124,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 124 句",
+        "status": "已审核"
+    },
+    {
+        "id": 125,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 125 句",
+        "status": "已审核"
+    },
+    {
+        "id": 126,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 126 句",
+        "status": "已审核"
+    },
+    {
+        "id": 127,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 127 句",
+        "status": "已审核"
+    },
+    {
+        "id": 128,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 128 句",
+        "status": "已审核"
+    },
+    {
+        "id": 129,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 129 句",
+        "status": "已审核"
+    },
+    {
+        "id": 130,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 130 句",
+        "status": "已审核"
+    },
+    {
+        "id": 131,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 131 句",
+        "status": "已审核"
+    },
+    {
+        "id": 132,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 132 句",
+        "status": "已审核"
+    },
+    {
+        "id": 133,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 133 句",
+        "status": "已审核"
+    },
+    {
+        "id": 134,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 134 句",
+        "status": "已审核"
+    },
+    {
+        "id": 135,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 135 句",
+        "status": "已审核"
+    },
+    {
+        "id": 136,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 136 句",
+        "status": "已审核"
+    },
+    {
+        "id": 137,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 137 句",
+        "status": "已审核"
+    },
+    {
+        "id": 138,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 138 句",
+        "status": "已审核"
+    },
+    {
+        "id": 139,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 139 句",
+        "status": "已审核"
+    },
+    {
+        "id": 140,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 140 句",
+        "status": "已审核"
+    },
+    {
+        "id": 141,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 141 句",
+        "status": "已审核"
+    },
+    {
+        "id": 142,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 142 句",
+        "status": "已审核"
+    },
+    {
+        "id": 143,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 143 句",
+        "status": "已审核"
+    },
+    {
+        "id": 144,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 144 句",
+        "status": "已审核"
+    },
+    {
+        "id": 145,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 145 句",
+        "status": "已审核"
+    },
+    {
+        "id": 146,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 146 句",
+        "status": "已审核"
+    },
+    {
+        "id": 147,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 147 句",
+        "status": "已审核"
+    },
+    {
+        "id": 148,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 148 句",
+        "status": "已审核"
+    },
+    {
+        "id": 149,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 149 句",
+        "status": "已审核"
+    },
+    {
+        "id": 150,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 150 句",
+        "status": "已审核"
+    },
+    {
+        "id": 151,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 151 句",
+        "status": "已审核"
+    },
+    {
+        "id": 152,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 152 句",
+        "status": "已审核"
+    },
+    {
+        "id": 153,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 153 句",
+        "status": "已审核"
+    },
+    {
+        "id": 154,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 154 句",
+        "status": "已审核"
+    },
+    {
+        "id": 155,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 155 句",
+        "status": "已审核"
+    },
+    {
+        "id": 156,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 156 句",
+        "status": "已审核"
+    },
+    {
+        "id": 157,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 157 句",
+        "status": "已审核"
+    },
+    {
+        "id": 158,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 158 句",
+        "status": "已审核"
+    },
+    {
+        "id": 159,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 159 句",
+        "status": "已审核"
+    },
+    {
+        "id": 160,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 160 句",
+        "status": "已审核"
+    },
+    {
+        "id": 161,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 161 句",
+        "status": "已审核"
+    },
+    {
+        "id": 162,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 162 句",
+        "status": "已审核"
+    },
+    {
+        "id": 163,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 163 句",
+        "status": "已审核"
+    },
+    {
+        "id": 164,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 164 句",
+        "status": "已审核"
+    },
+    {
+        "id": 165,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 165 句",
+        "status": "已审核"
+    },
+    {
+        "id": 166,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 166 句",
+        "status": "已审核"
+    },
+    {
+        "id": 167,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 167 句",
+        "status": "已审核"
+    },
+    {
+        "id": 168,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 168 句",
+        "status": "已审核"
+    },
+    {
+        "id": 169,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 169 句",
+        "status": "已审核"
+    },
+    {
+        "id": 170,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 170 句",
+        "status": "已审核"
+    },
+    {
+        "id": 171,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 171 句",
+        "status": "已审核"
+    },
+    {
+        "id": 172,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 172 句",
+        "status": "已审核"
+    },
+    {
+        "id": 173,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 173 句",
+        "status": "已审核"
+    },
+    {
+        "id": 174,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 174 句",
+        "status": "已审核"
+    },
+    {
+        "id": 175,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 175 句",
+        "status": "已审核"
+    },
+    {
+        "id": 176,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 176 句",
+        "status": "已审核"
+    },
+    {
+        "id": 177,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 177 句",
+        "status": "已审核"
+    },
+    {
+        "id": 178,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 178 句",
+        "status": "已审核"
+    },
+    {
+        "id": 179,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 179 句",
+        "status": "已审核"
+    },
+    {
+        "id": 180,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 180 句",
+        "status": "已审核"
+    },
+    {
+        "id": 181,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 181 句",
+        "status": "已审核"
+    },
+    {
+        "id": 182,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 182 句",
+        "status": "已审核"
+    },
+    {
+        "id": 183,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 183 句",
+        "status": "已审核"
+    },
+    {
+        "id": 184,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 184 句",
+        "status": "已审核"
+    },
+    {
+        "id": 185,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 185 句",
+        "status": "已审核"
+    },
+    {
+        "id": 186,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 186 句",
+        "status": "已审核"
+    },
+    {
+        "id": 187,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 187 句",
+        "status": "已审核"
+    },
+    {
+        "id": 188,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 188 句",
+        "status": "已审核"
+    },
+    {
+        "id": 189,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 189 句",
+        "status": "已审核"
+    },
+    {
+        "id": 190,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 190 句",
+        "status": "已审核"
+    },
+    {
+        "id": 191,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 191 句",
+        "status": "已审核"
+    },
+    {
+        "id": 192,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 192 句",
+        "status": "已审核"
+    },
+    {
+        "id": 193,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 193 句",
+        "status": "已审核"
+    },
+    {
+        "id": 194,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 194 句",
+        "status": "已审核"
+    },
+    {
+        "id": 195,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 195 句",
+        "status": "已审核"
+    },
+    {
+        "id": 196,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 196 句",
+        "status": "已审核"
+    },
+    {
+        "id": 197,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 197 句",
+        "status": "已审核"
+    },
+    {
+        "id": 198,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 198 句",
+        "status": "已审核"
+    },
+    {
+        "id": 199,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 199 句",
+        "status": "已审核"
+    },
+    {
+        "id": 200,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 200 句",
+        "status": "已审核"
+    },
+    {
+        "id": 201,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 201 句",
+        "status": "已审核"
+    },
+    {
+        "id": 202,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 202 句",
+        "status": "已审核"
+    },
+    {
+        "id": 203,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 203 句",
+        "status": "已审核"
+    },
+    {
+        "id": 204,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 204 句",
+        "status": "已审核"
+    },
+    {
+        "id": 205,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 205 句",
+        "status": "已审核"
+    },
+    {
+        "id": 206,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 206 句",
+        "status": "已审核"
+    },
+    {
+        "id": 207,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 207 句",
+        "status": "已审核"
+    },
+    {
+        "id": 208,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 208 句",
+        "status": "已审核"
+    },
+    {
+        "id": 209,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 209 句",
+        "status": "已审核"
+    },
+    {
+        "id": 210,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 210 句",
+        "status": "已审核"
+    },
+    {
+        "id": 211,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 211 句",
+        "status": "已审核"
+    },
+    {
+        "id": 212,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 212 句",
+        "status": "已审核"
+    },
+    {
+        "id": 213,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 213 句",
+        "status": "已审核"
+    },
+    {
+        "id": 214,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 214 句",
+        "status": "已审核"
+    },
+    {
+        "id": 215,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 215 句",
+        "status": "已审核"
+    },
+    {
+        "id": 216,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 216 句",
+        "status": "已审核"
+    },
+    {
+        "id": 217,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 217 句",
+        "status": "已审核"
+    },
+    {
+        "id": 218,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 218 句",
+        "status": "已审核"
+    },
+    {
+        "id": 219,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 219 句",
+        "status": "已审核"
+    },
+    {
+        "id": 220,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 220 句",
+        "status": "已审核"
+    },
+    {
+        "id": 221,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 221 句",
+        "status": "已审核"
+    },
+    {
+        "id": 222,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 222 句",
+        "status": "已审核"
+    },
+    {
+        "id": 223,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 223 句",
+        "status": "已审核"
+    },
+    {
+        "id": 224,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 224 句",
+        "status": "已审核"
+    },
+    {
+        "id": 225,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 225 句",
+        "status": "已审核"
+    },
+    {
+        "id": 226,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 226 句",
+        "status": "已审核"
+    },
+    {
+        "id": 227,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 227 句",
+        "status": "已审核"
+    },
+    {
+        "id": 228,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 228 句",
+        "status": "已审核"
+    },
+    {
+        "id": 229,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 229 句",
+        "status": "已审核"
+    },
+    {
+        "id": 230,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 230 句",
+        "status": "已审核"
+    },
+    {
+        "id": 231,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 231 句",
+        "status": "已审核"
+    },
+    {
+        "id": 232,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 232 句",
+        "status": "已审核"
+    },
+    {
+        "id": 233,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 233 句",
+        "status": "已审核"
+    },
+    {
+        "id": 234,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 234 句",
+        "status": "已审核"
+    },
+    {
+        "id": 235,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 235 句",
+        "status": "已审核"
+    },
+    {
+        "id": 236,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 236 句",
+        "status": "已审核"
+    },
+    {
+        "id": 237,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 237 句",
+        "status": "已审核"
+    },
+    {
+        "id": 238,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 238 句",
+        "status": "已审核"
+    },
+    {
+        "id": 239,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 239 句",
+        "status": "已审核"
+    },
+    {
+        "id": 240,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 240 句",
+        "status": "已审核"
+    },
+    {
+        "id": 241,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 241 句",
+        "status": "已审核"
+    },
+    {
+        "id": 242,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 242 句",
+        "status": "已审核"
+    },
+    {
+        "id": 243,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 243 句",
+        "status": "已审核"
+    },
+    {
+        "id": 244,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 244 句",
+        "status": "已审核"
+    },
+    {
+        "id": 245,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 245 句",
+        "status": "已审核"
+    },
+    {
+        "id": 246,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 246 句",
+        "status": "已审核"
+    },
+    {
+        "id": 247,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 247 句",
+        "status": "已审核"
+    },
+    {
+        "id": 248,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 248 句",
+        "status": "已审核"
+    },
+    {
+        "id": 249,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 249 句",
+        "status": "已审核"
+    },
+    {
+        "id": 250,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 250 句",
+        "status": "已审核"
+    },
+    {
+        "id": 251,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 251 句",
+        "status": "已审核"
+    },
+    {
+        "id": 252,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 252 句",
+        "status": "已审核"
+    },
+    {
+        "id": 253,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 253 句",
+        "status": "已审核"
+    },
+    {
+        "id": 254,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 254 句",
+        "status": "已审核"
+    },
+    {
+        "id": 255,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 255 句",
+        "status": "已审核"
+    },
+    {
+        "id": 256,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 256 句",
+        "status": "已审核"
+    },
+    {
+        "id": 257,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 257 句",
+        "status": "已审核"
+    },
+    {
+        "id": 258,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 258 句",
+        "status": "已审核"
+    },
+    {
+        "id": 259,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 259 句",
+        "status": "已审核"
+    },
+    {
+        "id": 260,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 260 句",
+        "status": "已审核"
+    },
+    {
+        "id": 261,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 261 句",
+        "status": "已审核"
+    },
+    {
+        "id": 262,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 262 句",
+        "status": "已审核"
+    },
+    {
+        "id": 263,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 263 句",
+        "status": "已审核"
+    },
+    {
+        "id": 264,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 264 句",
+        "status": "已审核"
+    },
+    {
+        "id": 265,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 265 句",
+        "status": "已审核"
+    },
+    {
+        "id": 266,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 266 句",
+        "status": "已审核"
+    },
+    {
+        "id": 267,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 267 句",
+        "status": "已审核"
+    },
+    {
+        "id": 268,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 268 句",
+        "status": "已审核"
+    },
+    {
+        "id": 269,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 269 句",
+        "status": "已审核"
+    },
+    {
+        "id": 270,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 270 句",
+        "status": "已审核"
+    },
+    {
+        "id": 271,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 271 句",
+        "status": "已审核"
+    },
+    {
+        "id": 272,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 272 句",
+        "status": "已审核"
+    },
+    {
+        "id": 273,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 273 句",
+        "status": "已审核"
+    },
+    {
+        "id": 274,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 274 句",
+        "status": "已审核"
+    },
+    {
+        "id": 275,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 275 句",
+        "status": "已审核"
+    },
+    {
+        "id": 276,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 276 句",
+        "status": "已审核"
+    },
+    {
+        "id": 277,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 277 句",
+        "status": "已审核"
+    },
+    {
+        "id": 278,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 278 句",
+        "status": "已审核"
+    },
+    {
+        "id": 279,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 279 句",
+        "status": "已审核"
+    },
+    {
+        "id": 280,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 280 句",
+        "status": "已审核"
+    },
+    {
+        "id": 281,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 281 句",
+        "status": "已审核"
+    },
+    {
+        "id": 282,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 282 句",
+        "status": "已审核"
+    },
+    {
+        "id": 283,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 283 句",
+        "status": "已审核"
+    },
+    {
+        "id": 284,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 284 句",
+        "status": "已审核"
+    },
+    {
+        "id": 285,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 285 句",
+        "status": "已审核"
+    },
+    {
+        "id": 286,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 286 句",
+        "status": "已审核"
+    },
+    {
+        "id": 287,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 287 句",
+        "status": "已审核"
+    },
+    {
+        "id": 288,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 288 句",
+        "status": "已审核"
+    },
+    {
+        "id": 289,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 289 句",
+        "status": "已审核"
+    },
+    {
+        "id": 290,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 290 句",
+        "status": "已审核"
+    },
+    {
+        "id": 291,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 291 句",
+        "status": "已审核"
+    },
+    {
+        "id": 292,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 292 句",
+        "status": "已审核"
+    },
+    {
+        "id": 293,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 293 句",
+        "status": "已审核"
+    },
+    {
+        "id": 294,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 294 句",
+        "status": "已审核"
+    },
+    {
+        "id": 295,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 295 句",
+        "status": "已审核"
+    },
+    {
+        "id": 296,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 296 句",
+        "status": "已审核"
+    },
+    {
+        "id": 297,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 297 句",
+        "status": "已审核"
+    },
+    {
+        "id": 298,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 298 句",
+        "status": "已审核"
+    },
+    {
+        "id": 299,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 299 句",
+        "status": "已审核"
+    },
+    {
+        "id": 300,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 300 句",
+        "status": "已审核"
+    },
+    {
+        "id": 301,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 301 句",
+        "status": "已审核"
+    },
+    {
+        "id": 302,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 302 句",
+        "status": "已审核"
+    },
+    {
+        "id": 303,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 303 句",
+        "status": "已审核"
+    },
+    {
+        "id": 304,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 304 句",
+        "status": "已审核"
+    },
+    {
+        "id": 305,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 305 句",
+        "status": "已审核"
+    },
+    {
+        "id": 306,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 306 句",
+        "status": "已审核"
+    },
+    {
+        "id": 307,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 307 句",
+        "status": "已审核"
+    },
+    {
+        "id": 308,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 308 句",
+        "status": "已审核"
+    },
+    {
+        "id": 309,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 309 句",
+        "status": "已审核"
+    },
+    {
+        "id": 310,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 310 句",
+        "status": "已审核"
+    },
+    {
+        "id": 311,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 311 句",
+        "status": "已审核"
+    },
+    {
+        "id": 312,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 312 句",
+        "status": "已审核"
+    },
+    {
+        "id": 313,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 313 句",
+        "status": "已审核"
+    },
+    {
+        "id": 314,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 314 句",
+        "status": "已审核"
+    },
+    {
+        "id": 315,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 315 句",
+        "status": "已审核"
+    },
+    {
+        "id": 316,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 316 句",
+        "status": "已审核"
+    },
+    {
+        "id": 317,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 317 句",
+        "status": "已审核"
+    },
+    {
+        "id": 318,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 318 句",
+        "status": "已审核"
+    },
+    {
+        "id": 319,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 319 句",
+        "status": "已审核"
+    },
+    {
+        "id": 320,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 320 句",
+        "status": "已审核"
+    },
+    {
+        "id": 321,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 321 句",
+        "status": "已审核"
+    },
+    {
+        "id": 322,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 322 句",
+        "status": "已审核"
+    },
+    {
+        "id": 323,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 323 句",
+        "status": "已审核"
+    },
+    {
+        "id": 324,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 324 句",
+        "status": "已审核"
+    },
+    {
+        "id": 325,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 325 句",
+        "status": "已审核"
+    },
+    {
+        "id": 326,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 326 句",
+        "status": "已审核"
+    },
+    {
+        "id": 327,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 327 句",
+        "status": "已审核"
+    },
+    {
+        "id": 328,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 328 句",
+        "status": "已审核"
+    },
+    {
+        "id": 329,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 329 句",
+        "status": "已审核"
+    },
+    {
+        "id": 330,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 330 句",
+        "status": "已审核"
+    },
+    {
+        "id": 331,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 331 句",
+        "status": "已审核"
+    },
+    {
+        "id": 332,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 332 句",
+        "status": "已审核"
+    },
+    {
+        "id": 333,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 333 句",
+        "status": "已审核"
+    },
+    {
+        "id": 334,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 334 句",
+        "status": "已审核"
+    },
+    {
+        "id": 335,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 335 句",
+        "status": "已审核"
+    },
+    {
+        "id": 336,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 336 句",
+        "status": "已审核"
+    },
+    {
+        "id": 337,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 337 句",
+        "status": "已审核"
+    },
+    {
+        "id": 338,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 338 句",
+        "status": "已审核"
+    },
+    {
+        "id": 339,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 339 句",
+        "status": "已审核"
+    },
+    {
+        "id": 340,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 340 句",
+        "status": "已审核"
+    },
+    {
+        "id": 341,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 341 句",
+        "status": "已审核"
+    },
+    {
+        "id": 342,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 342 句",
+        "status": "已审核"
+    },
+    {
+        "id": 343,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 343 句",
+        "status": "已审核"
+    },
+    {
+        "id": 344,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 344 句",
+        "status": "已审核"
+    },
+    {
+        "id": 345,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 345 句",
+        "status": "已审核"
+    },
+    {
+        "id": 346,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 346 句",
+        "status": "已审核"
+    },
+    {
+        "id": 347,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 347 句",
+        "status": "已审核"
+    },
+    {
+        "id": 348,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 348 句",
+        "status": "已审核"
+    },
+    {
+        "id": 349,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 349 句",
+        "status": "已审核"
+    },
+    {
+        "id": 350,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 350 句",
+        "status": "已审核"
+    },
+    {
+        "id": 351,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 351 句",
+        "status": "已审核"
+    },
+    {
+        "id": 352,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 352 句",
+        "status": "已审核"
+    },
+    {
+        "id": 353,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 353 句",
+        "status": "已审核"
+    },
+    {
+        "id": 354,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 354 句",
+        "status": "已审核"
+    },
+    {
+        "id": 355,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 355 句",
+        "status": "已审核"
+    },
+    {
+        "id": 356,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 356 句",
+        "status": "已审核"
+    },
+    {
+        "id": 357,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 357 句",
+        "status": "已审核"
+    },
+    {
+        "id": 358,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 358 句",
+        "status": "已审核"
+    },
+    {
+        "id": 359,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 359 句",
+        "status": "已审核"
+    },
+    {
+        "id": 360,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 360 句",
+        "status": "已审核"
+    },
+    {
+        "id": 361,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 361 句",
+        "status": "已审核"
+    },
+    {
+        "id": 362,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 362 句",
+        "status": "已审核"
+    },
+    {
+        "id": 363,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 363 句",
+        "status": "已审核"
+    },
+    {
+        "id": 364,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 364 句",
+        "status": "已审核"
+    },
+    {
+        "id": 365,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 365 句",
+        "status": "已审核"
+    },
+    {
+        "id": 366,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 366 句",
+        "status": "已审核"
+    },
+    {
+        "id": 367,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 367 句",
+        "status": "已审核"
+    },
+    {
+        "id": 368,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 368 句",
+        "status": "已审核"
+    },
+    {
+        "id": 369,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 369 句",
+        "status": "已审核"
+    },
+    {
+        "id": 370,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 370 句",
+        "status": "已审核"
+    },
+    {
+        "id": 371,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 371 句",
+        "status": "已审核"
+    },
+    {
+        "id": 372,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 372 句",
+        "status": "已审核"
+    },
+    {
+        "id": 373,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 373 句",
+        "status": "已审核"
+    },
+    {
+        "id": 374,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 374 句",
+        "status": "已审核"
+    },
+    {
+        "id": 375,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 375 句",
+        "status": "已审核"
+    },
+    {
+        "id": 376,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 376 句",
+        "status": "已审核"
+    },
+    {
+        "id": 377,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 377 句",
+        "status": "已审核"
+    },
+    {
+        "id": 378,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 378 句",
+        "status": "已审核"
+    },
+    {
+        "id": 379,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 379 句",
+        "status": "已审核"
+    },
+    {
+        "id": 380,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 380 句",
+        "status": "已审核"
+    },
+    {
+        "id": 381,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 381 句",
+        "status": "已审核"
+    },
+    {
+        "id": 382,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 382 句",
+        "status": "已审核"
+    },
+    {
+        "id": 383,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 383 句",
+        "status": "已审核"
+    },
+    {
+        "id": 384,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 384 句",
+        "status": "已审核"
+    },
+    {
+        "id": 385,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 385 句",
+        "status": "已审核"
+    },
+    {
+        "id": 386,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 386 句",
+        "status": "已审核"
+    },
+    {
+        "id": 387,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 387 句",
+        "status": "已审核"
+    },
+    {
+        "id": 388,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 388 句",
+        "status": "已审核"
+    },
+    {
+        "id": 389,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 389 句",
+        "status": "已审核"
+    },
+    {
+        "id": 390,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 390 句",
+        "status": "已审核"
+    },
+    {
+        "id": 391,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 391 句",
+        "status": "已审核"
+    },
+    {
+        "id": 392,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 392 句",
+        "status": "已审核"
+    },
+    {
+        "id": 393,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 393 句",
+        "status": "已审核"
+    },
+    {
+        "id": 394,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 394 句",
+        "status": "已审核"
+    },
+    {
+        "id": 395,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 395 句",
+        "status": "已审核"
+    },
+    {
+        "id": 396,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 396 句",
+        "status": "已审核"
+    },
+    {
+        "id": 397,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 397 句",
+        "status": "已审核"
+    },
+    {
+        "id": 398,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 398 句",
+        "status": "已审核"
+    },
+    {
+        "id": 399,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 399 句",
+        "status": "已审核"
+    },
+    {
+        "id": 400,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 400 句",
+        "status": "已审核"
+    },
+    {
+        "id": 401,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 401 句",
+        "status": "已审核"
+    },
+    {
+        "id": 402,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 402 句",
+        "status": "已审核"
+    },
+    {
+        "id": 403,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 403 句",
+        "status": "已审核"
+    },
+    {
+        "id": 404,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 404 句",
+        "status": "已审核"
+    },
+    {
+        "id": 405,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 405 句",
+        "status": "已审核"
+    },
+    {
+        "id": 406,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 406 句",
+        "status": "已审核"
+    },
+    {
+        "id": 407,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 407 句",
+        "status": "已审核"
+    },
+    {
+        "id": 408,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 408 句",
+        "status": "已审核"
+    },
+    {
+        "id": 409,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 409 句",
+        "status": "已审核"
+    },
+    {
+        "id": 410,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 410 句",
+        "status": "已审核"
+    },
+    {
+        "id": 411,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 411 句",
+        "status": "已审核"
+    },
+    {
+        "id": 412,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 412 句",
+        "status": "已审核"
+    },
+    {
+        "id": 413,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 413 句",
+        "status": "已审核"
+    },
+    {
+        "id": 414,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 414 句",
+        "status": "已审核"
+    },
+    {
+        "id": 415,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 415 句",
+        "status": "已审核"
+    },
+    {
+        "id": 416,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 416 句",
+        "status": "已审核"
+    },
+    {
+        "id": 417,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 417 句",
+        "status": "已审核"
+    },
+    {
+        "id": 418,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 418 句",
+        "status": "已审核"
+    },
+    {
+        "id": 419,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 419 句",
+        "status": "已审核"
+    },
+    {
+        "id": 420,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 420 句",
+        "status": "已审核"
+    },
+    {
+        "id": 421,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 421 句",
+        "status": "已审核"
+    },
+    {
+        "id": 422,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 422 句",
+        "status": "已审核"
+    },
+    {
+        "id": 423,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 423 句",
+        "status": "已审核"
+    },
+    {
+        "id": 424,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 424 句",
+        "status": "已审核"
+    },
+    {
+        "id": 425,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 425 句",
+        "status": "已审核"
+    },
+    {
+        "id": 426,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 426 句",
+        "status": "已审核"
+    },
+    {
+        "id": 427,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 427 句",
+        "status": "已审核"
+    },
+    {
+        "id": 428,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 428 句",
+        "status": "已审核"
+    },
+    {
+        "id": 429,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 429 句",
+        "status": "已审核"
+    },
+    {
+        "id": 430,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 430 句",
+        "status": "已审核"
+    },
+    {
+        "id": 431,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 431 句",
+        "status": "已审核"
+    },
+    {
+        "id": 432,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 432 句",
+        "status": "已审核"
+    },
+    {
+        "id": 433,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 433 句",
+        "status": "已审核"
+    },
+    {
+        "id": 434,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 434 句",
+        "status": "已审核"
+    },
+    {
+        "id": 435,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 435 句",
+        "status": "已审核"
+    },
+    {
+        "id": 436,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 436 句",
+        "status": "已审核"
+    },
+    {
+        "id": 437,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 437 句",
+        "status": "已审核"
+    },
+    {
+        "id": 438,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 438 句",
+        "status": "已审核"
+    },
+    {
+        "id": 439,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 439 句",
+        "status": "已审核"
+    },
+    {
+        "id": 440,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 440 句",
+        "status": "已审核"
+    },
+    {
+        "id": 441,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 441 句",
+        "status": "已审核"
+    },
+    {
+        "id": 442,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 442 句",
+        "status": "已审核"
+    },
+    {
+        "id": 443,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 443 句",
+        "status": "已审核"
+    },
+    {
+        "id": 444,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 444 句",
+        "status": "已审核"
+    },
+    {
+        "id": 445,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 445 句",
+        "status": "已审核"
+    },
+    {
+        "id": 446,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 446 句",
+        "status": "已审核"
+    },
+    {
+        "id": 447,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 447 句",
+        "status": "已审核"
+    },
+    {
+        "id": 448,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 448 句",
+        "status": "已审核"
+    },
+    {
+        "id": 449,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 449 句",
+        "status": "已审核"
+    },
+    {
+        "id": 450,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 450 句",
+        "status": "已审核"
+    },
+    {
+        "id": 451,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 451 句",
+        "status": "已审核"
+    },
+    {
+        "id": 452,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 452 句",
+        "status": "已审核"
+    },
+    {
+        "id": 453,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 453 句",
+        "status": "已审核"
+    },
+    {
+        "id": 454,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 454 句",
+        "status": "已审核"
+    },
+    {
+        "id": 455,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 455 句",
+        "status": "已审核"
+    },
+    {
+        "id": 456,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 456 句",
+        "status": "已审核"
+    },
+    {
+        "id": 457,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 457 句",
+        "status": "已审核"
+    },
+    {
+        "id": 458,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 458 句",
+        "status": "已审核"
+    },
+    {
+        "id": 459,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 459 句",
+        "status": "已审核"
+    },
+    {
+        "id": 460,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 460 句",
+        "status": "已审核"
+    },
+    {
+        "id": 461,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 461 句",
+        "status": "已审核"
+    },
+    {
+        "id": 462,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 462 句",
+        "status": "已审核"
+    },
+    {
+        "id": 463,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 463 句",
+        "status": "已审核"
+    },
+    {
+        "id": 464,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 464 句",
+        "status": "已审核"
+    },
+    {
+        "id": 465,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 465 句",
+        "status": "已审核"
+    },
+    {
+        "id": 466,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 466 句",
+        "status": "已审核"
+    },
+    {
+        "id": 467,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 467 句",
+        "status": "已审核"
+    },
+    {
+        "id": 468,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 468 句",
+        "status": "已审核"
+    },
+    {
+        "id": 469,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 469 句",
+        "status": "已审核"
+    },
+    {
+        "id": 470,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 470 句",
+        "status": "已审核"
+    },
+    {
+        "id": 471,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 471 句",
+        "status": "已审核"
+    },
+    {
+        "id": 472,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 472 句",
+        "status": "已审核"
+    },
+    {
+        "id": 473,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 473 句",
+        "status": "已审核"
+    },
+    {
+        "id": 474,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 474 句",
+        "status": "已审核"
+    },
+    {
+        "id": 475,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 475 句",
+        "status": "已审核"
+    },
+    {
+        "id": 476,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 476 句",
+        "status": "已审核"
+    },
+    {
+        "id": 477,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 477 句",
+        "status": "已审核"
+    },
+    {
+        "id": 478,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 478 句",
+        "status": "已审核"
+    },
+    {
+        "id": 479,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 479 句",
+        "status": "已审核"
+    },
+    {
+        "id": 480,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 480 句",
+        "status": "已审核"
+    },
+    {
+        "id": 481,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 481 句",
+        "status": "已审核"
+    },
+    {
+        "id": 482,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 482 句",
+        "status": "已审核"
+    },
+    {
+        "id": 483,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 483 句",
+        "status": "已审核"
+    },
+    {
+        "id": 484,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 484 句",
+        "status": "已审核"
+    },
+    {
+        "id": 485,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 485 句",
+        "status": "已审核"
+    },
+    {
+        "id": 486,
+        "source_zh": "请迅速前往受灾群众区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the victim area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 486 句",
+        "status": "已审核"
+    },
+    {
+        "id": 487,
+        "source_zh": "请迅速前往避难所区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the shelter area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 487 句",
+        "status": "已审核"
+    },
+    {
+        "id": 488,
+        "source_zh": "请迅速前往食物区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the food area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 488 句",
+        "status": "已审核"
+    },
+    {
+        "id": 489,
+        "source_zh": "请迅速前往饮用水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the water area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 489 句",
+        "status": "已审核"
+    },
+    {
+        "id": 490,
+        "source_zh": "请迅速前往队伍区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the team area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 490 句",
+        "status": "已审核"
+    },
+    {
+        "id": 491,
+        "source_zh": "请迅速前往安全区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the safety area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 491 句",
+        "status": "已审核"
+    },
+    {
+        "id": 492,
+        "source_zh": "请迅速前往疏散区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the evacuation area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 492 句",
+        "status": "已审核"
+    },
+    {
+        "id": 493,
+        "source_zh": "请迅速前往后勤区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the logistics area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 493 句",
+        "status": "已审核"
+    },
+    {
+        "id": 494,
+        "source_zh": "请迅速前往协调区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the coordination area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 494 句",
+        "status": "已审核"
+    },
+    {
+        "id": 495,
+        "source_zh": "请迅速前往救援区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the rescue area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 495 句",
+        "status": "已审核"
+    },
+    {
+        "id": 496,
+        "source_zh": "请迅速前往医疗区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the medical area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 496 句",
+        "status": "已审核"
+    },
+    {
+        "id": 497,
+        "source_zh": "请迅速前往搜索区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the search area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 497 句",
+        "status": "已审核"
+    },
+    {
+        "id": 498,
+        "source_zh": "请迅速前往洪水区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the flood area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 498 句",
+        "status": "已审核"
+    },
+    {
+        "id": 499,
+        "source_zh": "请迅速前往地震区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the earthquake area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 499 句",
+        "status": "已审核"
+    },
+    {
+        "id": 500,
+        "source_zh": "请迅速前往应急区域，我们需要立即提供支援。",
+        "target_en": "Please proceed quickly to the emergency area, we need immediate support.",
+        "lang_pair": "zh-en",
+        "source": "应急演练语料库 第 500 句",
+        "status": "已审核"
+    }
+]
