@@ -7,8 +7,8 @@ import pandas as pd
 
 # ================= 配置区 =================
 # ⚠️ 请填入你的真实 API Key (填完记得保存)
-DEEPSEEK_API_KEY = ""
-BIGMODEL_API_KEY = "" 
+DEEPSEEK_API_KEY = st.secrets["DEEPSEEK_API_KEY"]
+BIGMODEL_API_KEY = st.secrets["BIGMODEL_API_KEY"]
 # ==========================================
 
 st.set_page_config(page_title="应急语言服务综合平台", page_icon="🌐", layout="wide")
